@@ -39,20 +39,6 @@ ul {
     max-height: 150px;
 }
 
-/* header {
-    display: flex;
-    justify-content: space-around;
-    gap: 150px;
-    padding-right: 100px;
-    padding-left: 100px;
-} */
-
-/* .section2 {
-    display: flex;
-    justify-content: space-around;
-    gap: 20px;
-} */
-
 .placeholder {
     display: flex;
     justify-content: center;
