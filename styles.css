@@ -80,3 +80,16 @@ header {
     font-size: 36px;
     font-style: light italic;
 }
+
+.section5 {
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
+
+h5 {
+    font-weight: bold;
+    font-size: 20px;
+}
