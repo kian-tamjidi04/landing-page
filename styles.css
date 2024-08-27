@@ -141,3 +141,9 @@ h5 {
 .signup-message {
     margin-top: 0;
 }
+
+.left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
