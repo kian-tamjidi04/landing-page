@@ -104,7 +104,13 @@ header {
 h5 {
     font-weight: bold;
     font-size: 20px;
-    margin-bottom: 0;
+    margin: 0;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
 }
 
 .block {
@@ -125,21 +131,16 @@ h5 {
 .signup.bottom {
     background-color: #3882F6;
     border-radius: 5px;
-    border-width: 5px;
+    border-width: 2px;
     border-style: solid;
     border-color: #E5E7EB;
     color: #E5E7EB;
-    padding: 2px 10px;
+    padding: 0px 30px;
     font-size: 15px;
 }
 
-/* .text {
-    display: flex;
-    flex-direction: column;
-} */
-
 .signup-message {
-    margin-top: 0;
+    margin: 0;
 }
 
 .left {
