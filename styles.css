@@ -80,6 +80,14 @@ header {
 
 .section4 {
     background-color: #E5E7EB;
+    padding: 100px;
+
+}
+
+.author {
+    text-align: right;
+    font-weight: bolder;
+    font-size: 25px;
 }
 
 .quote {
@@ -87,7 +95,6 @@ header {
     font-style: italic;
     font-weight: 300;
     color: #1F2937;
-    padding: 100px;
 }
 
 .section5 {
