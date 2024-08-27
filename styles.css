@@ -102,3 +102,8 @@ h5 {
     border-style: solid;
     padding: 50px;
 }
+
+.section3 {
+    display: flex;
+    justify-content: center;
+}
