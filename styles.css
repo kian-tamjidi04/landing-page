@@ -1,5 +1,4 @@
 body {
-    font-family: "Roboto";
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -17,8 +16,14 @@ footer {
 
 ul {
     display: flex;
+    gap: 5px;
 }
 
 li {
     list-style: none;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
 }
