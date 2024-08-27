@@ -12,18 +12,70 @@ body {
 footer {
     display: flex;
     justify-content: center;
+    background-color: #1F2937;
+    color: #F9FAF8;;
 }
 
 ul {
     display: flex;
-    gap: 5px;
-}
-
-li {
+    gap: 15px;
     list-style: none;
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 header {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+}
+
+.section2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.placeholder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    background-color: gray ;
+}
+
+.mainheading {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.section1, .section2 {
+    background-color: #1F2937;
+}
+
+.headerlogo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.secondarytext {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.signup.header {
+    background-color: #3882F6;
+    border-radius: 8px;
+    padding: 7px 27px;
+    border: none;
+    color: #F9FAF8;
+    font-size: 15px;
+}
+
+.section4 {
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: light italic;
 }
